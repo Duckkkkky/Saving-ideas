@@ -1,22 +1,18 @@
 ---
-title: Reading List
-subtitle: a list of books I read
+title: 最近的书单
+subtitle: 其实没在看
 layout: "page"
 icon: fa-book
 order: 3
 ---
 
-I love books! Here are some I'm reading now:
+最近在读的书单，随时更新
 
-1. Robert Burton: *The Anatomy of Melancholy*
-2. Robert Musil: *The Man Without Qualities*
-3. Kazuo Ishiguro: *The Unconsoled*
-4. Malcolm Lowry: *Under the Volcano*
-5. Virginia Woolf: *The Waves*
-6. James Joyce: *Finnegans Wake*
-7. Thomas Wolfe: *Look Homeward, Angel*
-8. William Thackeray: *Pendennis*
-9. Karl Marx: *Capital*
-10. James Woodforde: *The Diary of A Country Parson*
+1. 尼采 《查拉图斯特拉如是说》
+2. 三岛由纪夫 《春雪》
+3. 达芙妮·杜穆里埃 《浮生梦》
+4. 《BBC艺术经典三部曲》
+5. 黑塞 《悉达多》
+
 
 source: [The Guardian](https://www.theguardian.com/books/booksblog/2011/jan/04/best-boring-books)
